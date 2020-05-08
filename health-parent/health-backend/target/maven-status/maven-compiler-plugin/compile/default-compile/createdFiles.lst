@@ -1,0 +1,11 @@
+com\sczy\controller\reportAgeAndSexController.class
+com\sczy\controller\RoleController.class
+com\sczy\controller\userController.class
+com\sczy\services\SpringSecurityUserService.class
+com\sczy\controller\checkitemController.class
+com\sczy\controller\checkGroupController.class
+com\sczy\controller\MenuController.class
+com\sczy\controller\ordersettingController.class
+com\sczy\controller\setmealController.class
+com\sczy\controller\reportController.class
+com\sczy\controller\PermissionController.class
